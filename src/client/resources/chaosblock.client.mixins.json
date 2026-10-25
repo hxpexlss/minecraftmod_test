@@ -1,0 +1,15 @@
+{
+	"required": true,
+	"package": "de.chaosblock.client.mixin",
+	"compatibilityLevel": "JAVA_25",
+	"client": [
+		"KeyboardInputMixin",
+		"LocalPlayerMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	},
+	"overwrites": {
+		"requireAnnotations": true
+	}
+}

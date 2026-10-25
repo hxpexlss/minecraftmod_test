@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "equipment",
+  "ingredients": [
+    "chaosblock:white_eye",
+    "chaosblock:oracle_eye"
+  ],
+  "result": {
+    "id": "chaosblock:eternal_eye"
+  }
+}

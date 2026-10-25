@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "G": "minecraft:gold_ingot",
+    "A": "minecraft:amethyst_shard",
+    "E": "minecraft:ender_eye"
+  },
+  "pattern": [
+    " A ",
+    "GEG",
+    " A "
+  ],
+  "result": {
+    "id": "chaosblock:oracle_eye"
+  }
+}
