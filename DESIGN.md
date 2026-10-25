@@ -121,9 +121,7 @@ Entity nur an diesen Client gesendet, Sounds/Chat nur an ihn, Spuren als Geister
 - Besiegt man ihn in Phase 4: Drop „Weißes Auge“ → Orakel-Auge mit unendlich Ladungen.
   Danach 1–2 Std Ruhe vor ihm.
 
-## Umsetzungs-Reihenfolge
+## Umsetzung
 
-1. Grundsystem: Chaos-Block-Rotation, Orakel-Auge, Config, erste Events
-2. Restliche Block-Events + Flüche
-3. Welt-Events
-4. Herobrine
+**Alles auf einmal bauen** (Wunsch des Nutzers) – keine Etappen. Vor dem Push muss
+`./gradlew build` erfolgreich durchlaufen.
