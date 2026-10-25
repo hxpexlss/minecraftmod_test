@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "X": "minecraft:magma_cream",
+    "Y": "minecraft:gold_ingot",
+    "Z": "minecraft:blaze_rod"
+  },
+  "pattern": [
+    "XYX",
+    "Z Z"
+  ],
+  "result": {
+    "id": "suitcraft:glutpanzer_helmet"
+  }
+}

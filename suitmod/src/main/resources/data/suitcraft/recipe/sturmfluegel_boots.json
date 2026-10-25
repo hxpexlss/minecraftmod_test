@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "X": "minecraft:feather",
+    "Y": "minecraft:iron_ingot"
+  },
+  "pattern": [
+    "X X",
+    "Y Y"
+  ],
+  "result": {
+    "id": "suitcraft:sturmfluegel_boots"
+  }
+}

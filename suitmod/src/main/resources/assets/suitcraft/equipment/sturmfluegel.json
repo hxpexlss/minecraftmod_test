@@ -1,0 +1,19 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "suitcraft:sturmfluegel"
+      }
+    ],
+    "humanoid_baby": [
+      {
+        "texture": "suitcraft:sturmfluegel"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "suitcraft:sturmfluegel"
+      }
+    ]
+  }
+}

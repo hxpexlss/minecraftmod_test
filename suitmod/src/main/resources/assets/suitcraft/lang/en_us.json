@@ -1,0 +1,22 @@
+{
+  "key.suitcraft.ability": "Suit Ability",
+  "key.category.suitcraft.suits": "Suits",
+  "item.suitcraft.web_shooter": "Web Shooter",
+  "entity.suitcraft.web_ball": "Web",
+  "item.suitcraft.netzlaeufer_helmet": "Webrunner Helmet",
+  "item.suitcraft.netzlaeufer_chestplate": "Webrunner Suit",
+  "item.suitcraft.netzlaeufer_leggings": "Webrunner Leggings",
+  "item.suitcraft.netzlaeufer_boots": "Webrunner Boots",
+  "item.suitcraft.glutpanzer_helmet": "Ember Plate Helmet",
+  "item.suitcraft.glutpanzer_chestplate": "Ember Plate Suit",
+  "item.suitcraft.glutpanzer_leggings": "Ember Plate Leggings",
+  "item.suitcraft.glutpanzer_boots": "Ember Plate Boots",
+  "item.suitcraft.schattenmantel_helmet": "Shadow Cloak Helmet",
+  "item.suitcraft.schattenmantel_chestplate": "Shadow Cloak Suit",
+  "item.suitcraft.schattenmantel_leggings": "Shadow Cloak Leggings",
+  "item.suitcraft.schattenmantel_boots": "Shadow Cloak Boots",
+  "item.suitcraft.sturmfluegel_helmet": "Stormwing Helmet",
+  "item.suitcraft.sturmfluegel_chestplate": "Stormwing Suit",
+  "item.suitcraft.sturmfluegel_leggings": "Stormwing Leggings",
+  "item.suitcraft.sturmfluegel_boots": "Stormwing Boots"
+}

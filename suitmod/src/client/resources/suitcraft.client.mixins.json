@@ -1,0 +1,14 @@
+{
+	"required": true,
+	"package": "de.suitcraft.client.mixin",
+	"compatibilityLevel": "JAVA_25",
+	"client": [
+		"HumanoidArmorLayerMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	},
+	"overwrites": {
+		"requireAnnotations": true
+	}
+}

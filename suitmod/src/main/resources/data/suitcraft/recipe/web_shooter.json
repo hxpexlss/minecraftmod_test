@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "I": "minecraft:iron_ingot",
+    "S": "minecraft:string",
+    "B": "minecraft:slime_ball",
+    "R": "minecraft:redstone"
+  },
+  "pattern": [
+    "SSS",
+    "IBI",
+    " R "
+  ],
+  "result": {
+    "id": "suitcraft:web_shooter"
+  }
+}

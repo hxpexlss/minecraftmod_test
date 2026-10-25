@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "X": "minecraft:feather",
+    "Y": "minecraft:iron_ingot",
+    "Z": "minecraft:breeze_rod"
+  },
+  "pattern": [
+    "X X",
+    "YZY",
+    "XXX"
+  ],
+  "result": {
+    "id": "suitcraft:sturmfluegel_chestplate"
+  }
+}

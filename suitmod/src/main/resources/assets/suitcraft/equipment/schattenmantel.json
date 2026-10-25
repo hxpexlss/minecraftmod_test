@@ -1,0 +1,19 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "suitcraft:schattenmantel"
+      }
+    ],
+    "humanoid_baby": [
+      {
+        "texture": "suitcraft:schattenmantel"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "suitcraft:schattenmantel"
+      }
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "suitcraft:netzlaeufer"
+      }
+    ],
+    "humanoid_baby": [
+      {
+        "texture": "suitcraft:netzlaeufer"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "suitcraft:netzlaeufer"
+      }
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "suitcraft:glutpanzer"
+      }
+    ],
+    "humanoid_baby": [
+      {
+        "texture": "suitcraft:glutpanzer"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "suitcraft:glutpanzer"
+      }
+    ]
+  }
+}

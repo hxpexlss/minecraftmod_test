@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "X": "minecraft:phantom_membrane",
+    "Y": "minecraft:obsidian"
+  },
+  "pattern": [
+    "XYX",
+    "X X",
+    "X X"
+  ],
+  "result": {
+    "id": "suitcraft:schattenmantel_leggings"
+  }
+}

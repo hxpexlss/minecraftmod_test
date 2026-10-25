@@ -1,0 +1,22 @@
+{
+  "key.suitcraft.ability": "Anzug-Fähigkeit",
+  "key.category.suitcraft.suits": "Anzüge",
+  "item.suitcraft.web_shooter": "Netzwerfer",
+  "entity.suitcraft.web_ball": "Netz",
+  "item.suitcraft.netzlaeufer_helmet": "Netzläufer-Maske",
+  "item.suitcraft.netzlaeufer_chestplate": "Netzläufer-Anzug",
+  "item.suitcraft.netzlaeufer_leggings": "Netzläufer-Hose",
+  "item.suitcraft.netzlaeufer_boots": "Netzläufer-Stiefel",
+  "item.suitcraft.glutpanzer_helmet": "Glutpanzer-Helm",
+  "item.suitcraft.glutpanzer_chestplate": "Glutpanzer-Brustpanzer",
+  "item.suitcraft.glutpanzer_leggings": "Glutpanzer-Beinschienen",
+  "item.suitcraft.glutpanzer_boots": "Glutpanzer-Stiefel",
+  "item.suitcraft.schattenmantel_helmet": "Schattenkapuze",
+  "item.suitcraft.schattenmantel_chestplate": "Schattenmantel",
+  "item.suitcraft.schattenmantel_leggings": "Schattenhose",
+  "item.suitcraft.schattenmantel_boots": "Schattenstiefel",
+  "item.suitcraft.sturmfluegel_helmet": "Sturmflügel-Helm",
+  "item.suitcraft.sturmfluegel_chestplate": "Sturmflügel-Weste",
+  "item.suitcraft.sturmfluegel_leggings": "Sturmflügel-Hose",
+  "item.suitcraft.sturmfluegel_boots": "Sturmflügel-Stiefel"
+}

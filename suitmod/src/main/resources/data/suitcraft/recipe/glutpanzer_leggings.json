@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "X": "minecraft:magma_cream",
+    "Y": "minecraft:gold_ingot"
+  },
+  "pattern": [
+    "XYX",
+    "X X",
+    "X X"
+  ],
+  "result": {
+    "id": "suitcraft:glutpanzer_leggings"
+  }
+}
